@@ -1,0 +1,15 @@
+D:\Backend\Address Book Project\AddressBook.Common\bin\Release\net5.0\AddressBook.Common.deps.json
+D:\Backend\Address Book Project\AddressBook.Common\bin\Release\net5.0\AddressBook.Common.runtimeconfig.json
+D:\Backend\Address Book Project\AddressBook.Common\bin\Release\net5.0\AddressBook.Common.runtimeconfig.dev.json
+D:\Backend\Address Book Project\AddressBook.Common\bin\Release\net5.0\AddressBook.Common.dll
+D:\Backend\Address Book Project\AddressBook.Common\bin\Release\net5.0\ref\AddressBook.Common.dll
+D:\Backend\Address Book Project\AddressBook.Common\bin\Release\net5.0\AddressBook.Common.pdb
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\AddressBook.Common.csproj.AssemblyReference.cache
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\AddressBook.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\AddressBook.Common.AssemblyInfoInputs.cache
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\AddressBook.Common.AssemblyInfo.cs
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\AddressBook.Common.csproj.CoreCompileInputs.cache
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\AddressBook.Common.dll
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\ref\AddressBook.Common.dll
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\AddressBook.Common.pdb
+D:\Backend\Address Book Project\AddressBook.Common\obj\Release\net5.0\AddressBook.Common.genruntimeconfig.cache

@@ -1,0 +1,144 @@
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\appsettings.Development.json
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\appsettings.json
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.exe
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.deps.json
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.runtimeconfig.json
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.runtimeconfig.dev.json
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\ref\Address Book Project.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Humanizer.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.csproj.AssemblyReference.cache
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.AssemblyInfoInputs.cache
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.AssemblyInfo.cs
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.csproj.CoreCompileInputs.cache
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\staticwebassets\Address Book Project.StaticWebAssets.Manifest.cache
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\staticwebassets\Address Book Project.StaticWebAssets.xml
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\scopedcss\bundle\Address Book Project.styles.css
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.RazorTargetAssemblyInfo.cache
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.csproj.CopyComplete
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.dll
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\ref\Address Book Project.dll
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.pdb
+D:\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.genruntimeconfig.cache
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.Application.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.Common.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.DB.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.EF.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.Application.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.Common.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.DB.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.EF.pdb
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\AutoMapper.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\EPPlus.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\EPPlus.Interfaces.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+D:\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\appsettings.Development.json
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\appsettings.json
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.exe
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.deps.json
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.runtimeconfig.json
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.runtimeconfig.dev.json
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\ref\Address Book Project.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Address Book Project.pdb
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AutoMapper.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\EPPlus.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\EPPlus.Interfaces.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Humanizer.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.Application.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.Common.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.DB.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.EF.dll
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.Application.pdb
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.Common.pdb
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.DB.pdb
+D:\Backend\Address Book Project\Address Book Project\bin\Debug\net5.0\AddressBook.EF.pdb
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.csproj.AssemblyReference.cache
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.AssemblyInfoInputs.cache
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.AssemblyInfo.cs
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.csproj.CoreCompileInputs.cache
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\staticwebassets\Address Book Project.StaticWebAssets.Manifest.cache
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\staticwebassets\Address Book Project.StaticWebAssets.xml
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\scopedcss\bundle\Address Book Project.styles.css
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.RazorTargetAssemblyInfo.cache
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.csproj.CopyComplete
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.dll
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\ref\Address Book Project.dll
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.pdb
+D:\Backend\Address Book Project\Address Book Project\obj\Debug\net5.0\Address Book Project.genruntimeconfig.cache
